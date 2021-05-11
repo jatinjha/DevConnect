@@ -1,0 +1,7 @@
+{
+    "html.format.extraLiners": "",
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
